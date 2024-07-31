@@ -48,7 +48,7 @@ This project was created by Manuel Guerrero and is open for contributions and co
 
 ## License
 
-This project is licensed under the [Creative Commons Legal Code](LICENSE).
+This project is licensed under the [GPL-3.0 license](LICENSE).
 
 ## Contributing
 

@@ -2,7 +2,7 @@
 
 ## Description
 
-This project aims to comprehensively and meticulously address the analysis of mexican typographic production over a period of 25 years. The inherent complexity of typographic evolution requires a systematic approach, and our exhaustive mapping methods will provide a faithful and detailed representation of the multiple facets that make up this field.
+This project aims to comprehensively and meticulously address the analysis of Mexican typographic production over a period of 25 years. The inherent complexity of typographic evolution requires a systematic approach, and our exhaustive mapping methods will provide a faithful and detailed representation of the multiple facets that make up this field.
 
 Identifying trends will delve into conceptual and contextual aspects, considering the interaction with socioeconomic, technological, and cultural factors that may have influenced their development.
 
@@ -14,8 +14,8 @@ This repository contains files that constitute the indexing system of the Mexica
 - **Database Management**: Efficient handling and organization of large datasets related to Mexican typography.
 - **User Authentication**: Secure login and role-based access control for managing user permissions.
 - **Foundry Registration**: Allows editors to register and manage typographic foundries.
-- **WIP. Trend Analysis**: Tools for analyzing typographic trends over the past 25 years, considering various influencing factors.
-- **WIP. Interactive Interface**: User-friendly interface for querying and visualizing typographic data.
+- **Trend Analysis (WIP)**: Tools for analyzing typographic trends over the past 25 years, considering various influencing factors.
+- **Interactive Interface (WIP)**: User-friendly interface for querying and visualizing typographic data.
 
 ## Usage
 

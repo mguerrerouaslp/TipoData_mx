@@ -57,12 +57,15 @@ Contributions are welcome! Feel free to open issues or pull requests for any imp
 ## Cite this project
 Download the file [BibTeX file](ref_DBTipoMx.bib) or copy this:
 
-@misc{database2024,
-  author       = {Manuel Guerrero and Erendida Mancilla},
-  title        = {Database of Mexican Typographic Production},
-  year         = {2024},
-  organization = {UASLP}
+@misc{,
+   author = {Manuel Guerrero-Salinas and Eréndida Mancilla-González and Irma Carillo and Alfonso Alba},
+   journal = {Mapeo de la Producción Tipográfica Mexicana},
+   month = {7},
+   title = {Definición del proyecto},
+   url = {https://vanguardiasdiseno.org/data/index},
+   year = {2024},
 }
+
 
 
 ## Acknowledgments

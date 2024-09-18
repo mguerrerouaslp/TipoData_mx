@@ -17,13 +17,6 @@ This repository contains files that constitute the indexing system of the Mexica
 - **Trend Analysis (WIP)**: Tools for analyzing typographic trends over the past 25 years, considering various influencing factors.
 - **Interactive Interface (WIP)**: User-friendly interface for querying and visualizing typographic data.
 
-## Usage
-
-1. Clone this repository to your local machine using git clone.
-2. Set up your local development environment with PHP and a MySQL database.
-3. Import the SQL files to create the necessary database tables.
-4. Use the provided PHP scripts to interact with the database and manage the typographic data.
-
 
 ## Examples
 

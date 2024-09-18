@@ -70,4 +70,4 @@ Download the file [BibTeX file](ref_DBTipoMx.bib) or copy this:
 
 ## Acknowledgments
 
-Special thanks to the Typography community (AMT) Mexican Association of Typography for their support and resources to create this database.
+Special thanks to the University Autonomus of San Luis Pootsi and the Typography community (AMT) Mexican Association of Typography for their support and resources to create this database.

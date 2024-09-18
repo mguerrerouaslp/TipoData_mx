@@ -58,7 +58,7 @@ Contributions are welcome! Feel free to open issues or pull requests for any imp
 Download the file [BibTeX file](ref_DBTipoMx.bib) or copy this:
 
 @misc{,
-   author = {Manuel Guerrero-Salinas and Eréndida Mancilla-González and Irma Carillo and Alfonso Alba},
+   author = {Manuel Guerrero-Salinas and Eréndida Mancilla-González and Irma Carrillo and Alfonso Alba},
    journal = {Mapeo de la Producción Tipográfica Mexicana},
    month = {7},
    title = {Definición del proyecto},

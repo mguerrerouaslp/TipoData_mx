@@ -36,7 +36,7 @@ This repository contains files that constitute the indexing system of the Mexica
 
 ## Credits
 
-This project was created by Manuel Guerrero, Eréndida Mancilla, Irma Carrillo and is open for contributions and collaborations. Visit the website at [vanguardiasdiseno.org](https://vanguardiasdiseno.org/site/archivos/326).
+This project was created by Manuel Guerrero, Eréndida Mancilla, Irma Carrillo and is open for contributions and collaborations. Visit the website at [DATA-DESIGN](https://datadesign.uaslp.mx/).
 
 
 ## License

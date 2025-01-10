@@ -55,7 +55,7 @@ Download the file [BibTeX file](ref_DBTipoMx.bib) or copy this:
    journal = {Mapeo de la Producción Tipográfica Mexicana},
    month = {7},
    title = {Definición del proyecto},
-   url = {https://vanguardiasdiseno.org/data/index},
+   url = {[https://datadesign.uaslp.mx/](https://datadesign.uaslp.mx/proyecto)},
    year = {2024},
 }
 

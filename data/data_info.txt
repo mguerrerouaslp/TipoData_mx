@@ -1,0 +1,36 @@
+# DATASET INFORMATION: TipoData_mx
+
+## SOURCE
+This data is synchronized from the official database at:
+https://datadesign.uaslp.mx
+
+## FILES
+1. fonts.json
+   - Contains the registry of typographic projects developed or published
+     in Mexico over the last 25 years.
+   - Key attributes: font name, designer, release year, style, and
+     classification.
+
+2. foundries.json
+   - Contains a catalog of Mexican typographic foundries and independent
+     design studios.
+   - Key attributes: foundry name, location, foundation date, and
+     associated designers.
+
+## CONTEXT
+These files serve as the indexing system for the analysis of Mexican
+typographic production. The data accounts for socioeconomic,
+technological, and cultural factors influencing the evolution of
+type design in the region.
+
+## FORMAT
+- Format: JSON (JavaScript Object Notation)
+- Encoding: UTF-8
+
+## USAGE & ATTRIBUTION
+This data is provided for research and educational purposes.
+When using this dataset, please cite the original project:
+"TipoData_mx - Mapping 25 years of Mexican Typography."
+
+Last Updated: March 2026
+Maintained by: mguerrerouaslp

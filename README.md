@@ -9,14 +9,21 @@ Identifying trends will delve into conceptual and contextual aspects, considerin
 This repository contains files that constitute the indexing system of the Mexican typographic production to the database for its subsequent analysis.
 
 
+## Data Assets
+
+The `/data` directory contains the core datasets extracted from `datadesign.uaslp.mx`, serving as the backbone for the analysis:
+
+* **`fonts.json`**: A comprehensive collection of Mexican typefaces, including metadata on styles, designers, and release dates.
+* **`foundries.json`**: A detailed registry of typographic foundries and independent studios operating in Mexico.
+
 ## Features
 
+- **Data Openness**: Provision of raw datasets in JSON format for community research and transparency.
 - **Database Management**: Efficient handling and organization of large datasets related to Mexican typography.
 - **User Authentication**: Secure login and role-based access control for managing user permissions.
 - **Foundry Registration**: Allows editors to register and manage typographic foundries.
 - **Trend Analysis (WIP)**: Tools for analyzing typographic trends over the past 25 years, considering various influencing factors.
 - **Interactive Interface (WIP)**: User-friendly interface for querying and visualizing typographic data.
-
 
 ## Examples
 
@@ -31,7 +38,6 @@ This repository contains files that constitute the indexing system of the Mexica
 
 ![Example 4](./resources/example4.png)
 *Interface User profile. Example 4*
-
 
 
 ## Credits
